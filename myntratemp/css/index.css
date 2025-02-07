@@ -104,6 +104,9 @@ header {
 }
 .logo_container {
   margin-left: 4%;
+  width: 200px;
+  background-color: red;
+  
 }
 .action_bar {
   margin-right: 4%;
